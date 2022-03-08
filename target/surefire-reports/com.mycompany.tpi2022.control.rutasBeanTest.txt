@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.tpi2022.control.rutasBeanTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.479 sec <<< FAILURE!
+com.mycompany.tpi2022.control.rutasBeanTest.testEliminar()  Time elapsed: 3.476 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at com.mycompany.tpi2022.control.rutasBeanTest.testEliminar(rutasBeanTest.java:44)
+

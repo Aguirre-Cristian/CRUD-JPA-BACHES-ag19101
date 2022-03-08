@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.tpi2022.control.ObjetoBeanTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 6.59 sec <<< FAILURE!
+com.mycompany.tpi2022.control.ObjetoBeanTest.testBuscar()  Time elapsed: 6.401 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <> but was: <null>
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:177)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1124)
+	at com.mycompany.tpi2022.control.ObjetoBeanTest.testBuscar(ObjetoBeanTest.java:48)
+
